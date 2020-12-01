@@ -1,0 +1,11 @@
+body {
+    background-image: url("../imgs/fundo2.png");
+    background-repeat: repeat;
+    /* background-size: cover;*/
+    font-size: 40px;
+}
+
+.container {
+    color: #ffffff;
+    background-color: #fcec91bb;
+}
